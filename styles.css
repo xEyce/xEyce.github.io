@@ -431,6 +431,11 @@ section{
     width: 75%;
     
 }
+
+.skill-bar .bar .php{
+    width: 75%;
+    
+}
 .skill-bar .bar .reactjs{
     width: 60%;
     
@@ -476,6 +481,16 @@ section{
         width: 75%;
     }
 }
+
+@keyframes php{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 75%;
+    }
+}
+
 @keyframes reactjs{
     0%{
         width: 0%;
