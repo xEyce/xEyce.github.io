@@ -110,6 +110,10 @@ function animateCircles() {
                     animationName = 'javascript';
                     duration = '2.5s';
                     break;
+                case 'php':
+                    animationName = 'php';
+                    duration = '2.5s';
+                    break;
                 case 'reactjs':
                     animationName = 'reactjs';
                     duration = '3s';
