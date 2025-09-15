@@ -112,7 +112,7 @@ function animateCircles() {
                     break;
                 case 'php':
                     animationName = 'php';
-                    duration = '2.5s';
+                    duration = '2.8s';
                     break;
                 case 'reactjs':
                     animationName = 'reactjs';
