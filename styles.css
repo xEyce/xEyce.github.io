@@ -84,6 +84,7 @@ span {
     padding: 1rem 2rem;
     border-radius: 3rem;
     background: linear-gradient(270deg, #00ff88 10%, #005f3a 100%);
+    color: #fff;
     letter-spacing: 1px;
     cursor: pointer;
     transition: 0.3s ease-in-out;
